@@ -10,10 +10,25 @@ Soy nutricionista con un enfoque analítico y técnico. Mi experiencia en el sec
 
 🔍 Me entusiasma traducir información compleja en hallazgos claros y accionables, integrando la lógica de programación con la comprensión del comportamiento humano. He desarrollado proyectos que conectan con el mundo del análisis de datos.
 
-🔧 **Librerías y tecnologías:** pandas · matplotlib · seaborn · scipy · NumPy · Jupyter Notebook
+## 🛠️ Tecnologías y herramientas
 
-🧾 Mis proyectos están organizados y documentados para facilitar su revisión. Podes verlos en los repositorios ⬆️
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="40" alt="Seaborn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="Tableau"/>
+</p>
 
-📫 ¿Querés contactarme?
-[LinkedIn](https://www.linkedin.com/in/priscila-campos-gonzalez)  
-📧 pricam29@gmail.com
+## 📁 Proyectos destacados
+- 📊 **Embudo de conversión & A/A/B test:** [Ver repo](https://github.com/priscilacampos/ab_test_embudo_app)
+- 📞 **Ineficiencia en Telecom:** [Ver repo](https://github.com/priscilacampos/ineficiencia-operadores-telecom)
+- 📚 **SQL Editorial:** [Ver repo](https://github.com/priscilacampos/analisis-sql-editorial)
+- 🎮 **Análisis de ventas de videojuegos:** [Ver repo](https://github.com/priscilacampos/ventas-videojuegos)
+
+## 📫 ¿Hablamos?
+
+- 💌 **Mail:** [pricam29@gmail.com](mailto:pricam29@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in//in/priscila-campos-gonzalez](https://www.linkedin.com/in//in/priscila-campos-gonzalez) 
