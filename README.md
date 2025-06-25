@@ -23,10 +23,10 @@ Soy nutricionista con un enfoque analítico y técnico. Mi experiencia en el sec
 </p>
 
 ## 📁 Proyectos destacados
-- 📊 **Embudo de conversión & A/A/B test:** [Ver repo](https://github.com/priscilacampos/ab_test_embudo_app)
-- 📞 **Ineficiencia en Telecom:** [Ver repo](https://github.com/priscilacampos/ineficiencia-operadores-telecom)
-- 📚 **SQL Editorial:** [Ver repo](https://github.com/priscilacampos/analisis-sql-editorial)
-- 🎮 **Análisis de ventas de videojuegos:** [Ver repo](https://github.com/priscilacampos/ventas-videojuegos)
+- 📊 **Embudo de conversión & A/A/B test:** [Ver repositorio](https://github.com/priscilacampos/ab_test_embudo_app)
+- 📞 **Ineficiencia en Telecom:** [Ver repositorio](https://github.com/priscilacampos/ineficiencia-operadores-telecom)
+- 📚 **SQL Editorial:** [Ver repositorio](https://github.com/priscilacampos/analisis-sql-editorial)
+- 🎮 **Análisis de ventas de videojuegos:** [Ver repositorio](https://github.com/priscilacampos/ventas-videojuegos)
 
 ## 📫 ¿Hablamos?
 
